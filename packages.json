@@ -1,0 +1,42 @@
+[
+  {
+    "package": "worldpa",
+    "url": "https://github.com/FRBCesab/worldpa"
+  },
+  {
+    "package": "rsendinblue",
+    "url": "https://github.com/FRBCesab/rsendinblue"
+  },
+  {
+    "package": "rwoslite",
+    "url": "https://github.com/FRBCesab/rwoslite"
+  },
+  {
+    "package": "messages",
+    "url": "https://github.com/FRBCesab/messages"
+  },
+  {
+    "package": "popbayes",
+    "url": "https://github.com/FRBCesab/popbayes"
+  },
+  {
+    "package": "robinmap",
+    "url": "https://github.com/FRBCesab/robinmap"
+  },
+  {
+    "package": "funbiogeo",
+    "url": "https://github.com/FRBCesab/funbiogeo"
+  },
+  {
+    "package": "rcompendium",
+    "url": "https://github.com/FRBCesab/rcompendium"
+  },
+  {
+    "package": "mFD",
+    "url": "https://github.com/CmlMagneville/mFD"
+  },
+  {
+    "package": "funrar",
+    "url": "https://github.com/rekyt/funrar"
+  }
+]
