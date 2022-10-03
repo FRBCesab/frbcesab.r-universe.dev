@@ -1,5 +1,13 @@
 [
   {
+    "package": "chessboard",
+    "url": "https://github.com/FRBCesab/chessboard"
+  },
+  {
+    "package": "rbibtools",
+    "url": "https://github.com/FRBCesab/rbibtools"
+  },
+  {
     "package": "worldpa",
     "url": "https://github.com/FRBCesab/worldpa"
   },
