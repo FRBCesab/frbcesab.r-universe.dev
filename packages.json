@@ -1,7 +1,23 @@
 [
   {
+    "package": "geoparser",
+    "url": "https://github.com/FRBCesab/geoparser"
+  },
+  {
+    "package": "zoteror",
+    "url": "https://github.com/FRBCesab/zoteror"
+  },
+  {
     "package": "chessboard",
     "url": "https://github.com/FRBCesab/chessboard"
+  },
+  {
+    "package": "rutils",
+    "url": "https://github.com/FRBCesab/rutils"
+  },
+  {
+    "package": "forcis",
+    "url": "https://github.com/FRBCesab/forcis"
   },
   {
     "package": "rbibtools",
