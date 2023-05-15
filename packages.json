@@ -1,5 +1,9 @@
 [
   {
+    "package": "snakedist",
+    "url": "https://github.com/FRBCesab/snakedist"
+  },
+  {
     "package": "geoparser",
     "url": "https://github.com/FRBCesab/geoparser"
   },
