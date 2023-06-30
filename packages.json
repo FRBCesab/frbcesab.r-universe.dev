@@ -1,5 +1,9 @@
 [
   {
+    "package": "zenodor",
+    "url": "https://github.com/FRBCesab/zenodor"
+  },
+  {
     "package": "snakedist",
     "url": "https://github.com/FRBCesab/snakedist"
   },
