@@ -1,5 +1,9 @@
 [
   {
+    "package": "rwosstarter",
+    "url": "https://github.com/FRBCesab/rwosstarter"
+  },
+  {
     "package": "zenodor",
     "url": "https://github.com/FRBCesab/zenodor"
   },
