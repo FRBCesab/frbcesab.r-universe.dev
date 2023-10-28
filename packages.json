@@ -1,5 +1,9 @@
 [
   {
+    "package": "rdeps",
+    "url": "https://github.com/FRBCesab/rdeps"
+  },
+  {
     "package": "rwosstarter",
     "url": "https://github.com/FRBCesab/rwosstarter"
   },
