@@ -33,7 +33,7 @@
   },
   {
     "package": "forcis",
-    "url": "https://github.com/FRBCesab/forcis"
+    "url": "https://github.com/ropensci/forcis"
   },
   {
     "package": "rbibtools",
@@ -58,10 +58,6 @@
   {
     "package": "popbayes",
     "url": "https://github.com/FRBCesab/popbayes"
-  },
-  {
-    "package": "robinmap",
-    "url": "https://github.com/FRBCesab/robinmap"
   },
   {
     "package": "funbiogeo",
