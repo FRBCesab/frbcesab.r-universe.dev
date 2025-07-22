@@ -1,5 +1,9 @@
 [
   {
+    "package": "faircitations",
+    "url": "https://github.com/FRBCesab/faircitations"
+  },
+  {
     "package": "rdeps",
     "url": "https://github.com/FRBCesab/rdeps"
   },
